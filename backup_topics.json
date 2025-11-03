@@ -1,0 +1,79 @@
+[
+{
+  "model": "mainapp.topic",
+  "pk": 1,
+  "fields": {
+    "name": "BCC (Body-centered cubic)",
+    "subject": 2,
+    "link": "https://y7zvg.zappar-us.io/5095213242445918574/",
+    "qr_code": "topics/qr_codes/ChemistryQR_Emrfux4.png",
+    "image": "topics/bcc.jpg"
+  }
+},
+{
+  "model": "mainapp.topic",
+  "pk": 2,
+  "fields": {
+    "name": "FCC (Face-centered cubic)",
+    "subject": 2,
+    "link": "https://y7zvg.zappar-us.io/5095213242445918574/",
+    "qr_code": "topics/qr_codes/ChemistryQR.png",
+    "image": "topics/fcc.jpg"
+  }
+},
+{
+  "model": "mainapp.topic",
+  "pk": 3,
+  "fields": {
+    "name": "Diamond structure",
+    "subject": 2,
+    "link": "https://y7zvg.zappar-us.io/5095213242445918574/",
+    "qr_code": "topics/qr_codes/ChemistryQR_GD1koCK.png",
+    "image": "topics/diamond_structure.jpeg"
+  }
+},
+{
+  "model": "mainapp.topic",
+  "pk": 4,
+  "fields": {
+    "name": "Graphite structure",
+    "subject": 2,
+    "link": "https://y7zvg.zappar-us.io/5095213242445918574/",
+    "qr_code": "topics/qr_codes/ChemistryQR_JScJdj1.png",
+    "image": "topics/graphite_structure.jpeg"
+  }
+},
+{
+  "model": "mainapp.topic",
+  "pk": 5,
+  "fields": {
+    "name": "DC motor",
+    "subject": 1,
+    "link": "https://ng900.zappar.io/2158425193584228536/1.0.3/",
+    "qr_code": "topics/qr_codes/PhysicsQR.png",
+    "image": "topics/dc_motor.jpeg"
+  }
+},
+{
+  "model": "mainapp.topic",
+  "pk": 6,
+  "fields": {
+    "name": "DNA Structure",
+    "subject": 4,
+    "link": "https://ng900.zappar.io/5615695770064117962/1.0.0/",
+    "qr_code": "topics/qr_codes/BiologyQR.png",
+    "image": "topics/dna_structure.jpeg"
+  }
+},
+{
+  "model": "mainapp.topic",
+  "pk": 7,
+  "fields": {
+    "name": "Conics section",
+    "subject": 3,
+    "link": "https://ng900.zappar.io/3264959755157286762/1.0.0/",
+    "qr_code": "topics/qr_codes/MathsQR.png",
+    "image": "topics/conics.jpeg"
+  }
+}
+]
